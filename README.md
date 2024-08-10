@@ -1,1 +1,1 @@
-# codealpha2
+This repository contains the image gallery website.
